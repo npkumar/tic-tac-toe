@@ -1,0 +1,23 @@
+#app {
+  margin-top: 40px;
+  background-color: black;
+  width: 360px;
+  heigth: 360px;
+  min-width: 360px;
+  min-height: 360px;
+}
+
+.cell {
+  border-style: solid;
+  border-color: white;
+  width: 120px;
+  heigth: 120px;
+  min-width: 120px;
+  min-height: 120px;
+  color: blue;
+  font-size: 500%;
+}
+
+.red {
+  color: red;
+}
