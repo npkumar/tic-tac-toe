@@ -1,8 +1,8 @@
 # tic-tac-toe
 https://en.wikipedia.org/wiki/Tic-tac-toe
 
-##Demo
+## Demo
 https://codepen.io/getnpk/full/zBxdpN/
 
-##Note
+## Note
 Please add required thrid party css and js files when running locally. Thanks!
